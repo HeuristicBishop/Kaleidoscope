@@ -1,5 +1,6 @@
 /* -*- mode: c++ -*-
  * Kaleidoscope-Hardware-sherbet -- sherbet hardware support for Kaleidoscope
+ * Copyright (C) 2020 HeuristicBishop
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of version 3 of the GNU General Public License as
@@ -70,7 +71,5 @@ class sherbet;
 EXPORT_DEVICE(kaleidoscope::device::sherbet::sherbet)
 
 }
-
-extern kaleidoscope::device::sherbet::sherbet DEPRECATED(NAMED_HARDWARE) &sherbet;
 
 #endif

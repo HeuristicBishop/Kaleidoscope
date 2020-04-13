@@ -1,6 +1,6 @@
 /* -*- mode: c++ -*-
- * Kaleidoscope-Hardware-KBDFans-KBD4x -- KBD4x hardware support for Kaleidoscope
- * Copyright (C) 2019  Keyboard.io, Inc
+ * Kaleidoscope-Hardware-sherbet-sherbet -- sherbet hardware support for Kaleidoscope
+ * Copyright (C) 2020 HeuristicBishop
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by

@@ -1,5 +1,6 @@
 /* -*- mode: c++ -*-
  * sherbet -- A very basic Kaleidoscope example for the sherbet macropad
+ * Copyright (C) 2020 HeuristicBishop
  *
  * This program is free software; you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
