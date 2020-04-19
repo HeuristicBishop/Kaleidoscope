@@ -1,5 +1,5 @@
 /* -*- mode: c++ -*-
- * Kaleidoscope-Hardware-sherbet -- sherbet hardware support for Kaleidoscope
+ * Kaleidoscope-Hardware-diy-sherbet -- sherbet hardware support for Kaleidoscope
  * Copyright (C) 2020 HeuristicBishop
  *
  * This program is free software: you can redistribute it and/or modify
@@ -25,7 +25,7 @@
 
 namespace kaleidoscope {
 namespace device {
-namespace sherbet {
+namespace diy {
 
 ATMEGA_KEYSCANNER_BOILERPLATE
 
@@ -33,7 +33,7 @@ ATMEGA_KEYSCANNER_BOILERPLATE
 }
 }
 
-kaleidoscope::device::sherbet::SHERBET = kaleidoscope_internal::device;
+kaleidoscope::device::diy::sherbet &sherbet = kaleidoscope_internal::device;
 
 #endif
 #endif // ifndef KALEIDOSCOPE_VIRTUAL_BUILD

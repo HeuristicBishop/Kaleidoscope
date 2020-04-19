@@ -18,4 +18,4 @@
 
 #pragma once
 
-#include "kaleidoscope/device/sherbet/sherbet.h"
+#include "kaleidoscope/device/diy/sherbet.h"

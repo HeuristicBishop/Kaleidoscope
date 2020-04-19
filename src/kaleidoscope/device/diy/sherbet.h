@@ -29,7 +29,7 @@
 
 namespace kaleidoscope {
 namespace device {
-namespace sherbet {
+namespace diy {
 
 struct sherbetProps : kaleidoscope::device::ATmega32U4KeyboardProps {
   struct KeyScannerProps : public kaleidoscope::driver::keyscanner::ATmegaProps {
@@ -68,7 +68,7 @@ class sherbet;
 }
 }
 
-EXPORT_DEVICE(kaleidoscope::device::sherbet::sherbet)
+EXPORT_DEVICE(kaleidoscope::device::diy::sherbet)
 
 }
 
